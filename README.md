@@ -27,4 +27,3 @@ pip install torch torchvision transformers scikit-learn numpy pandas matplotlib
 
 Place the required dataset files in the paths required.
 
-Dataset Structure used in the code can be modified according to the location of the downloaded datasets and models.
