@@ -1,7 +1,7 @@
 # Product-attribute-prediction
 An automated attribute prediction model leveraging ResNet101 and ViT with stacked ensemble learning to improve E-commerce catalog accuracy. 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/070fff5a-a2f1-45a2-bc81-dbed69f0d9fa)
 
 
 ## Setup Instructions
