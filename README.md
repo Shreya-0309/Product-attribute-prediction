@@ -25,10 +25,6 @@ pip install torch torchvision transformers scikit-learn numpy pandas matplotlib
 
 4. Set Up Input Data
 
-Place the required dataset files in the paths required:
+Place the required dataset files in the paths required.
 
-Dataset Structure used in the code can be modified according to the location of the downloaded datasets and models:
-/kaggle/input/visual-taxonomy/train.csv
-/kaggle/input/visual-taxonomy/test.csv
-/kaggle/input/visual-taxonomy/category_attributes.parquet
-/kaggle/input/visual-taxonomy/train_images
+Dataset Structure used in the code can be modified according to the location of the downloaded datasets and models.
