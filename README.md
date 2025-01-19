@@ -7,7 +7,7 @@ An automated attribute prediction model leveraging ResNet101 and ViT with stacke
 ## Setup Instructions
 
 1. Clone the Repository
-If the project is hosted on GitHub, clone the repository to your local machine:
+Clone the repository to your local machine:
 
 git clone <repository_url>
 cd <repository_name>
